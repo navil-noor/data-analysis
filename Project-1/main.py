@@ -1,5 +1,5 @@
 # Import important libraries
-# import numpy as np
+import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 from pandas.plotting import scatter_matrix
